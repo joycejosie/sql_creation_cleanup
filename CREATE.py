@@ -19,7 +19,7 @@ def get_emps_by_name(lastname):
     c.execute("SELECT * FROM employees WHERE last=:last", {'last': 'Lafontant'})
     return c.fetchall()
 
-de
+def
 
 
 connection.commit()
