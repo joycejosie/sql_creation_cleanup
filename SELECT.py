@@ -6,7 +6,7 @@ c = connection.cursor()
 
 #c.execute("SELECT * FROM employees WHERE last='Lafontant'")
 
-c.execute("SELECT * FROM employees WHERE last=:last", {'last': 'Lafontant'})
+# c.execute("SELECT * FROM employees WHERE last=:last", {'last': 'Lafontant'})
 
 print(c.fetchall())
 

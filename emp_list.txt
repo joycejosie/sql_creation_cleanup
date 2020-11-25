@@ -1,0 +1,10 @@
+from emp import Employee
+
+emp_1 = Employee('Joyce', 'Lafontant', 48080)
+emp_2 = Employee('Carl', 'Morcy', 35477)
+emp_3 = Employee('Moussa', 'Fomba', 98743)
+emp_4 = Employee('Urji', 'Haji', 80000)
+emp_5 = Employee('Brodrick', 'Stanley', 73736)
+emp_6 = Employee('Jamie', 'Edward', 191929)
+emp_7 = Employee('John', 'Doe', 9000)
+emp_8 = Employee('Jane', 'Doe', 80000)

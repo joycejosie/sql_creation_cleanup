@@ -16,3 +16,9 @@
 - Several complications occured with installing the PostgreSQL driver
 - Using SQLite will be a method I'll be using from now for this script
 - By default, your Python installation contains a Python SQL library named sqlite3 that you can use to interact with an SQLite database
+
+***11/23/20 Update***
+
+- using this video as template
+- Python SQLite Tutorial: Complete Overview - Creating a Database, Table, and Running Queries
+- https://www.youtube.com/watch?v=pd-0G0MigUA
